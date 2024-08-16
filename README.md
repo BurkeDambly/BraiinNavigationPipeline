@@ -6,7 +6,7 @@ Download the .mat file related to the walk in question. Ex: RW1 Walk1 => RWNApp_
 RWNApp_Output_Jan2024 => desired file. 
 
 
-Download the Gopro Video related to the walk in question. Make sure that you are downloading the video from the ORIGINAL folder. Ex: RW1 Walk1 => RealWorldAnalysisCory => Original => Walk1 => GoPro => desired file. The files are not always concatenated to look for the file where they are inside and there is a clapper. The patient is normally standing still, this is the first video. You can then use the ending of the first to the beginning of other .mp4 files to see which video is next in the event there are more than 2 .mp4 files. Do not worry about any other file type that is not .mp4. 
+Download the Gopro Video related to the walk in question. Make sure that you are downloading the video from the ORIGINAL folder. Ex: RW1 Walk1 => RealWorldAnalysisCory => Original => Walk1 => GoPro => desired file. The files are not always concatenated, so look for the file where they are inside and there is a clapper. The patient is normally standing still, this is the first video. You can then use the ending of the first to the beginning of other .mp4 files to see which video is next in the event there are more than 2 .mp4 files. Do not worry about any other file type that is not .mp4. 
 
 Download all the Matlab and python files. Make sure the matlab files listed are all in the same directory.(Change names if updated)
 MatLab: CalcRWAPerm, CalcRWAPval, morseSpecGram, OffsetToOriginalCalculator, RAAnalysis_Single, RWAnalysisTest
