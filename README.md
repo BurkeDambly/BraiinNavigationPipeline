@@ -1,4 +1,4 @@
-# BraiinNavigationPipeline
+# BrainNavigationPipeline
 
 Dual Vision Neural Analysis Pipeline
 
